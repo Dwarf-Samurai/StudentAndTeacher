@@ -1,5 +1,12 @@
 package StudentAndTeacher;
 
+import Group.StudentGroup;
+import Group.TeacherGroup;
+import User.Student;
+import User.Teacher;
+import View.StudentView;
+import View.TeacherView;
+
 import java.util.ArrayList;
 
 public class Main {
